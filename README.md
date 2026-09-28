@@ -16,7 +16,7 @@ Replace the following placeholders with the actual group information:
 
 | Member | Student ID | Responsibility | Individual Contribution |
 |---|---|---|---|
-| Member 1 | YOUR_ID | Linked List + student records | Describe contribution |
+| Member 1 | Sahl | Linked List + student records | Describe contribution |
 | Member 2 | YOUR_ID | Stack + Queue | Describe contribution |
 | Member 3 | YOUR_ID | BST + Hashing | Describe contribution |
 | Member 4 | YOUR_ID | Graph + BFS | Describe contribution |
