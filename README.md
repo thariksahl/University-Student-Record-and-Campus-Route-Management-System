@@ -17,14 +17,14 @@ Replace the following placeholders with the actual group information:
 | Member | Student ID | Responsibility | Individual Contribution |
 |---|---|---|---|
 | MTM Sahl | 23DA2-0973 | Linked List + student records | Describe contribution |
-| Member 2 | YOUR_ID | Stack + Queue | Describe contribution |
-| Member 3 | YOUR_ID | BST + Hashing | Describe contribution |
-| Member 4 | YOUR_ID | Graph + BFS | Describe contribution |
+| NM Aasir | 23DA2-0887 | Stack + Queue | Describe contribution |
+| MRM Rislan | 23DA2-0790 | BST + Hashing | Describe contribution |
+| FJM Fazil | 23DA2-0949 | Graph + BFS | Describe contribution |
 
 The assignment requires every group member's name, student ID, assigned responsibility, and individual contribution.
 
 ### How to run
-1. Open the project in Eclipse.
+1. Open the project in VS Code
 2. Make sure all `.java` files are inside the source folder.
 3. Open `Main.java`.
 4. Run `Main.java` as a Java Application.
